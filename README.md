@@ -14,6 +14,9 @@ A series of tools for Swift intended to encourage rapid development & prototypin
     - [Show full screen loading](https://github.com/rcaraway/HappyLoader)
     - [Show quick Alerts](https://github.com/rcaraway/HappyAlert)
     - [Easy selection of pretty colors](https://github.com/rcaraway/HappyColors)
+    - [Create Pretty Buttons fast](https://github.com/rcaraway/HappyButton.git)
+    - [Create Pretty TextFields](https://github.com/rcaraway/HappyTextField.git)
+    - [Easily setup pretty Navigation Controllers & bars](https://github.com/rcaraway/PrettyNavigation.git)
 - Data Persistence
     - [Save Light data to UserDefaults Easier](https://github.com/rcaraway/HappyDefaults)
 - Networking

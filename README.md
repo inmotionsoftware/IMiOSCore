@@ -10,7 +10,7 @@ A series of tools for Swift intended to encourage rapid development & prototypin
 
 ## Directory: 
 - Visual Components:
-    - [Show Toast mesages](https://github.com/rcaraway/HappyToast)
+    - [Show Toast messages](https://github.com/rcaraway/HappyToast)
     - [Show full screen loading](https://github.com/rcaraway/HappyLoader)
     - [Show quick Alerts](https://github.com/rcaraway/HappyAlert)
     - [Easy selection of pretty colors](https://github.com/rcaraway/HappyColors)
